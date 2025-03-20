@@ -1,5 +1,5 @@
 /*
-Fahrkartenautomat Übungsprojek
+Fahrkartenautomat Übungsprojekt
 @author Erik Ramani(FI-B-41)
 @version A2.6, A3.3, A3.4, A3.5, A4.3, A4.5
  */
